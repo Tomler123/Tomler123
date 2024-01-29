@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Tomler123
-- 👀 I’m interested in NFT
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cool NFT project
+- 👋 Hi, I’m @Tomler123 (Toma Sulava-Sulaberidze)
+- 👀 I’m interested in coding
+- 💞️ I’m looking to collaborate on cool project
 - 📫 How to reach me nikolonikoloa@gmail.com
 
 <!---
