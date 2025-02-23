@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toma Sulava-Sulaberidze</h1>
-<h3 align="center">MSc Software and Service Architecture Student (Computer Sciecne)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomler123&label=Profile%20views&color=0e75b6&style=flat" alt="tomler123" /> </p>
+# Hi, I'm Toma Sulava-Sulaberidze! 👋
 
 🎓 **Education:**  
 - 📚 **Master’s in Software and Service Architectures** | Eötvös Loránd University (2024 - Present)  
@@ -9,7 +6,7 @@
 
 💼 **Experience:**  
 - 🏢 **Python Developer @ UGT (2024)** | Developed automation scripts, optimized performance  
-- 🎓 **Programming Tutor (2021-2024)** | Teaching OOP, Functional Programming, Data Structures  
+- 🎓 **Programming Tutor (2021-2024)** | Teaching OOP, Functional Programming, Algorithms and Data Structures  
 
 ---
 
@@ -37,6 +34,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
 
 ### **DevOps & Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
@@ -51,23 +50,41 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
 
 ---
 
-## 🚀 Featured Projects  
-📌 **[AI-Powered Personal Financial Advisor](https://github.com/Tomler123/financial-advisor)**  
-An AI-driven financial advisor that helps users track and manage their expenses.  
-- **Tech Stack:** Python, Flask, Machine Learning (Scikit-Learn), Azure, JavaScript (AJAX, JSON)  
+## 🔀 Network Flow & Randomized Algorithms  
+✅ **Flow Network Algorithms:**  
+- Maximum Flow Problem (Ford-Fulkerson, Edmonds-Karp)  
+- Bipartite Matching & König-Hall Theorem  
+- Minimum Cut & Menger's Theorem  
+- Densest Subgraphs & Image Segmentation  
 
-📌 **[AI Scheduler for Hospital Treatments](https://github.com/Tomler123/hospital-scheduler)**  
-A scheduling system that optimizes patient appointment times using AI.  
-- **Tech Stack:** Python, Flask, PostgreSQL, TensorFlow, REST APIs  
+✅ **Randomized Algorithms:**  
+- Karger’s Minimum Cut Algorithm  
+- Assignment Problems with Randomization  
+
+---
+
+## ☕ Advanced Java Skills  
+- **Core Features:** Enumeration Types, Generic Types, Advanced File Handling  
+- **Software Engineering:** Testing (JUnit), Debugging, Execution Tracing  
+- **Functional Programming:** Lambdas (Anonymous Functions), Streams  
+- **Concurrency & Performance:** Threading, Reflection, Annotations  
+
+---
+
+## 🚀 Featured Project
+📌 **[AI-Powered Personal Financial Advisor](https://github.com/Tomler123/AI-Powered-Perwonal-Financial-Advisor)**  
+An AI-driven financial advisor that helps users track and manage their expenses.  
+- **Tech Stack:** Python, Flask, Machine Learning, Azure, JavaScript (AJAX, JSON)  
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomler123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomler123&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tomler123&theme=radical&hide_border=true)  
+
 
 ---
 
