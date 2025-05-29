@@ -80,6 +80,10 @@
 An AI-driven financial advisor that helps users track and manage their expenses.  
 - **Tech Stack:** Python, Flask, Machine Learning, Azure, JavaScript (AJAX, JSON)  
 
+📌 **[City Building Game](https://github.com/Tomler123/City-Building-Game)**  
+Fun City Building Simulation Game, where user can build various facilities, manage the hapiness of teh city as well as the economy.  
+- **Tech Stack:** C#, .NET, MonoGame, Adobe Photoshop, Pixil Art  
+
 ---
 
 ## 📊 GitHub Stats  
