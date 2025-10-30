@@ -5,6 +5,7 @@
 - 🎓 **Bachelor’s in Computer Science** | Eötvös Loránd University (2024)  
 
 💼 **Experience:**  
+- 🏢 **Data Engineering  @ TCS       (2025)** | Azure, Generateive AI APIs, RAG, GAN, Agents, DataLake, Data Engineering, PostgreSQL
 - 🏢 **Generative AI     @ TCS       (2025)** | Prompt Engineering, Generateive AI APIs, RAG, GAN, Agents, DataLake, Data Engineering
 - 🏢 **Python Developer  @ UGT       (2024)** | Developed automation scripts, optimized performance  
 - 🎓 **Programming Tutor @ ELTE (2021-2024)** | Teaching OOP, Functional Programming, Algorithms and Data Structures  
